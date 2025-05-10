@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m pradip<br>🔭 I’m currently a student pursuing B.Tech in Computer Science<br>👯 "I'm looking to collaborate on web development projects, whether it's front-end, back-end, or full-stack development. I'm enthusiastic about building responsive and user-friendly web applications, and I'm eager to collaborate with like-minded developers to create innovative solutions. If you're interested in teaming up or have any exciting web development projects in mind, I'd love to hear from you!"<br>🌱 I’m currently learning React.JS<br>
+👋 Hi, I’m pradip<br>🔭 I’m currently a student pursuing B.Tech in Computer Science<br>👯 "I'm looking to collaborate on web development projects, whether it's front-end, back-end, or full-stack development. I'm enthusiastic about building responsive and user-friendly web applications, and I'm eager to collaborate with like-minded developers to create innovative solutions. If you're interested in teaming up or have any exciting web development projects in mind, I'd love to hear from you!"<br>🌱 I’m currently learning AI ML<br>
 
 
 ## 🌐 Socials:
